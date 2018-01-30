@@ -7,8 +7,6 @@
     <description>Focus plugin for Android</description>
     <license>Apache 2.0</license>
     <keywords>Focus,android</keywords>
-    <repo>https://github.com/46cl/cordova-android-focus-plugin.git</repo>
-    <issue>https://github.com/46cl/cordova-android-focus-plugin/issues</issue>
 
   <js-module src="www/focus.js" name="focus">
     <clobbers target="cordova.plugins.Focus" />
